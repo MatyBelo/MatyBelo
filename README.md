@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatyBelo 
 
-<a href="#matybelo-title"><img src="https://raw.githubusercontent.com/MatyBelo/github-stats-transparent/output/generated/overview.svg" alt="matybelo" align="right" /></a>
+<a href="#MatyBelo-title"><img src="https://raw.githubusercontent.com/MatyBelo/github-stats-transparent/output/generated/overview.svg" alt="MatyBelo" align="right" /></a>
 
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
